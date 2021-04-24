@@ -9,3 +9,7 @@ now our work will continue locally
 2. commited the change to local repo 
 3. we want this charge to be reflected in remote repository 
 4. observe it has been added 
+
+how to save after adding some text in sublime 
+
+click on file and save it 
