@@ -13,3 +13,5 @@ now our work will continue locally
 how to save after adding some text in sublime 
 
 click on file and save it 
+
+we do not have do push one commit at a time 
