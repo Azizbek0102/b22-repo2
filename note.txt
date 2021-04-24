@@ -2,3 +2,10 @@ We just published our local git repo
 to remote Github.com repostory
 few things happen:
 1. It automatically created new remote repo
+
+now our work will continue locally
+
+1. add a new file called note.txt
+2. commited the change to local repo 
+3. we want this charge to be reflected in remote repository 
+4. observe it has been added 
